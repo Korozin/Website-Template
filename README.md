@@ -1,2 +1,3 @@
 # Website-Template
-I don't know much about web development, so test repo I guess
+
+I should probably start learning web development soon, so this is something I guess.
